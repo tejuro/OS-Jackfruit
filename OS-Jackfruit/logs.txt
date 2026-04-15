@@ -1,0 +1,6 @@
+CPU container started
+Memory container started
+CPU container started
+CPU container started
+CPU container started
+Memory container started
